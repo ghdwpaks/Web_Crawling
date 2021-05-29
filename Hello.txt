@@ -1,2 +1,3 @@
 here is web crawling repository
 thx
+my main target is comparing texts about naver blogs
